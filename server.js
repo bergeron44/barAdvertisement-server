@@ -69,7 +69,11 @@ app.post('/api/bars/:name/like', (req, res) => {
 });
 
 
-const PORT = process.env.PORT || 5001;
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-});
+app.get('/', (req, res) => {
+    res.send('Bar Advertisement Server is Running');
+  });
+  
+  const PORT = process.env.PORT || 3000;
+  app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
+  });
