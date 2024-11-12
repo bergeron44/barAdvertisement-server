@@ -35,6 +35,7 @@ let bars = [
         name: "BarGiora",
         lat: 31.2612,
         lng: 34.7925,
+        website: "https://www.instagram.com/bar.giora/",
         instagram: "https://www.instagram.com/bar.giora/",
         videoUrl: "https://example.com/video3.mp4",
         likes: 0,
@@ -43,6 +44,20 @@ let bars = [
         discountSec: "🍺 משחק חברים : 4 כוסות בירה ו-8 שוטים ב-200 ש״ח ",
         discountThi: "🥃 משחק צחוקים : כל שוט שלישי חינם 🥃",
     },
+    {
+        id: 4,
+        name: "Mileva",
+        lat: 31.2625,
+        lng: 34.7967,
+        website: "https://mileva.co.il/",
+        instagram: "https://www.instagram.com/mileva.br7/",
+        videoUrl: "https://example.com/video4.mp4",
+        likes: 0,
+        imageUrl: "https://example.com/image4.jpg",
+        discountOne: "🍸 משחק דייטים : 2 קוקטיילים ב-80 ש״ח בלבד",
+        discountSec: "🍻 משחק חברים : 3 בירות ו-5 שוטים ב-150 ש״ח",
+        discountThi: "🍷 משחק צחוקים : כל כוס חמישי חינם 🍷"
+    }
 ];
 
 // מסלול לשליפת נתוני כל הברים
