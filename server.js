@@ -47,8 +47,8 @@ let bars = [
     {
         id: 4,
         name: "Mileva",
-        lat: 31.2625,
-        lng: 34.7967,
+        lat: 31.2617, 
+        lng: 34.7965,
         website: "https://mileva.co.il/",
         instagram: "https://www.instagram.com/mileva.br7/",
         videoUrl: "https://example.com/video4.mp4",
