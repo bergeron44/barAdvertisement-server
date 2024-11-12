@@ -53,7 +53,7 @@ let bars = [
         instagram: "https://www.instagram.com/mileva.br7/",
         videoUrl: "https://example.com/video4.mp4",
         likes: 0,
-        imageUrl: "https://example.com/image4.jpg",
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsR1WMKuBr6hfqRKcFiDtBPeBIDe9v1n1nuw&s",
         discountOne: "🍸 משחק דייטים : 2 קוקטיילים ב-80 ש״ח בלבד",
         discountSec: "🍻 משחק חברים : 3 בירות ו-5 שוטים ב-150 ש״ח",
         discountThi: "🍷 משחק צחוקים : כל כוס חמישי חינם 🍷"
