@@ -15,9 +15,9 @@ let bars = [
         videoUrl: "https://example.com/video1.mp4",
         likes: 0,
         imageUrl: "https://example.com/image1.jpg",
-        discountOne: "🍷 משחק דייטים : 2 כוסות יין ב-70 ש״ח בלבד ",
+        discountOne: "🍷 משחק דייטים : 2 כוסות יין ב-50 ש״ח בלבד ",
         discountSec: "🍺 משחק חברים : 4 כוסות בירה ו-8 שוטים ב-200 ש״ח ",
-        discountThi: "🥃 משחק צחוקים : כל שוט שלישי חינם 🥃",
+        discountThi: "🥃  נחש מי אני : כל שוט שלישי חינם 🥃",
     },
     {
         id: 2,
@@ -42,7 +42,7 @@ let bars = [
         imageUrl: "https://example.com/image3.jpg",
         discountOne: "🍷 משחק דייטים : 2 כוסות יין ב-50 ש״ח בלבד ",
         discountSec: "🍺 משחק חברים : 4 כוסות בירה ו-8 שוטים ב-200 ש״ח ",
-        discountThi: "🥃 משחק צחוקים : כל שוט שלישי חינם 🥃",
+        discountThi: "🥃  נחש מי אני : כל שוט שלישי חינם 🥃",
     },
     {
         id: 4,
@@ -54,9 +54,9 @@ let bars = [
         videoUrl: "https://example.com/video4.mp4",
         likes: 0,
         imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsR1WMKuBr6hfqRKcFiDtBPeBIDe9v1n1nuw&s",
-        discountOne: "🍸 משחק דייטים : 2 קוקטיילים ב-80 ש״ח בלבד",
+        discountOne: "🍷 משחק דייטים : 2 כוסות יין ב-50 ש״ח בלבד ",
         discountSec: "🍻 משחק חברים : 3 בירות ו-5 שוטים ב-150 ש״ח",
-        discountThi: "🍷 משחק צחוקים : כל כוס חמישי חינם 🍷"
+        discountThi: "🥃  נחש מי אני : כל שוט שלישי חינם 🥃",
     },
     {
         id: 5,
@@ -67,9 +67,9 @@ let bars = [
         videoUrl: "https://example.com/video11.mp4",
         likes: 0,
         imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP3-R6lwS-UvfwtCtPgS2cTIvDX_yIYCuqlg&s",
-        discountOne: "🍸 משחק דייטים : 2 קוקטיילים ב-70 ש״ח בלבד",
+        discountOne: "🍷 משחק דייטים : 2 כוסות יין ב-50 ש״ח בלבד ",
         discountSec: "🍻 משחק חברים : 3 בירות ב-90 ש״ח",
-        discountThi: "🥂 משחק צחוקים : כל שוט שלישי בחינם"
+        discountThi: "🥃  נחש מי אני : כל שוט שלישי חינם 🥃",
     },
     {
         id: 6,
@@ -83,7 +83,7 @@ let bars = [
         imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFpAH51toe9nLLrlGejnUzJgyr3dnxFtc8dw&s",  // ניתן להוסיף תמונת ברירת מחדל או כתובת לתמונה מתאימה
         discountOne: "🍸 מבצע 1: 2 קוקטיילים ב-70 ש״ח בלבד",
         discountSec: "🍻 מבצע 2: 3 בירות ו-4 שוטים ב-130 ש״ח",
-        discountThi: "🥂 מבצע 3: כל כוס חמישי בחינם"
+        discountThi: "🥃  נחש מי אני : כל שוט שלישי חינם 🥃",
     },
     {
         id: 7,
@@ -95,9 +95,9 @@ let bars = [
         videoUrl: "",  // אם יש סרטון, ניתן להוסיף קישור כאן
         likes: 0,
         imageUrl: "https://example.com/image15.jpg",  // תמונה מתאימה לבר
-        discountOne: "🍨 משחקי השתייה: כל שוט חמישי חינם",
+        discountOne: "🍷 משחק דייטים : 2 כוסות יין ב-50 ש״ח בלבד ",
         discountSec: "🍻 1+1 על בירות בימי ראשון",
-        discountThi: "🍹 2 קוקטיילים במחיר אחד אחרי 10 בלילה"
+        discountThi: "🥃  נחש מי אני : כל שוט שלישי חינם 🥃",
     },
     {
         id: 8,
@@ -109,9 +109,9 @@ let bars = [
         videoUrl: "",  // הוסף סרטון אם יש
         likes: 0,
         imageUrl: "https://example.com/imageBarBaSaba.jpg",  // הוסף תמונה מתאימה
-        discountOne: "🍸 הנחה על קוקטיילים",
+        discountOne: "🍷 משחק דייטים : 2 כוסות יין ב-50 ש״ח בלבד ",
         discountSec: "🍻 הנחה על בירות",
-        discountThi: "🍷 הנחה על משקאות נוספים"
+        discountThi: "🥃  נחש מי אני : כל שוט שלישי חינם 🥃",
     },
     {
         id: 9,
@@ -123,9 +123,9 @@ let bars = [
         videoUrl: "",  // הוסף סרטון אם יש
         likes: 0,
         imageUrl: "https://example.com/imageJems.jpg",  // הוסף תמונה מתאימה
-        discountOne: "🍸 הנחה על קוקטיילים",
+        discountOne: "🍷 משחק דייטים : 2 כוסות יין ב-50 ש״ח בלבד ",
         discountSec: "🍻 הנחה על בירות",
-        discountThi: "🍷 הנחה על משקאות נוספים"
+        discountThi: "🥃  נחש מי אני : כל שוט שלישי חינם 🥃",
     },
     {
         id: 10,  // Update the ID as needed
@@ -137,9 +137,9 @@ let bars = [
         videoUrl: "",  // Add video URL if available
         likes: 0,
         imageUrl: "https://example.com/imageGiza.jpg",  // Replace with an actual image URL
-        discountOne: "🍸 הנחה על קוקטיילים",
+        discountOne: "🍷 משחק דייטים : 2 כוסות יין ב-50 ש״ח בלבד ",
         discountSec: "🍻 הנחה על בירות",
-        discountThi: "🍷 הנחה על משקאות נוספים"
+        discountThi: "🥃  נחש מי אני : כל שוט שלישי חינם 🥃",
     }
 ];
 
