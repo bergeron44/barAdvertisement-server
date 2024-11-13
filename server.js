@@ -40,9 +40,9 @@ let bars = [
         videoUrl: "https://example.com/video3.mp4",
         likes: 0,
         imageUrl: "https://example.com/image3.jpg",
-        discountOne: "🍷 משחק דייטים : 2 כוסות יין ב-50 ש״ח בלבד ",
-        discountSec: "🍺 משחק חברים : 4 כוסות בירה ו-8 שוטים ב-200 ש״ח ",
-        discountThi: "🥃  נחש מי אני : כל שוט שלישי חינם 🥃",
+        discountOne: "🍷 משחק דייטים : 2 קוקטלים ב-80 ש״ח בלבד ",
+        discountSec: "🍺  משחק חברים :5 שוטים ב-40 ש״ח כל כוס חמישית חינם ",
+        discountThi: "🥃  נחש מי אני : כל שוט רביעי חינם 🥃",
     },
     {
         id: 4,
